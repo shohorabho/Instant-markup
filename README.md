@@ -9,7 +9,6 @@ Some ready css animation and and very necessary plugin are linked with an index 
 
 ---
 ## Feature
----
 
 * Index
 * Normalize Css
