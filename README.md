@@ -7,6 +7,7 @@ Here are ready markup for instand start html markup which is very common and nee
 
 Some ready css animation and and very necessary plugin are linked with an index file. Linked Bootstrap and Font Awesome. This will be helpfull for all website designer.
 
+---
 ## Feature
 ---
 
@@ -18,6 +19,7 @@ Some ready css animation and and very necessary plugin are linked with an index 
 * 404 page
 * Favicon Icon
 
+---
 ### Extra Plugin
 ---
 
@@ -27,11 +29,13 @@ Some ready css animation and and very necessary plugin are linked with an index 
 * Animate.Css
 * Owl Carousel v2.2.1
 
+---
 ### S Hossain organization 
 ---
 
 [SHossain.ORG](https://shossain.org)
 
+---
 ### License & Copyright
 ---
 
